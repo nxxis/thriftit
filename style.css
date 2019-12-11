@@ -1,0 +1,47 @@
+body{
+    background-color:antiquewhite;
+    color: sienna;
+    text-align: center;
+    border: 100px;
+    margin: 50px;
+    padding: 30;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid black;
+    width: 440;
+    padding: 10px ;
+    margin: 0px 0px 0px 475px;
+    background-color: silver;
+
+}
+h2{
+    text-align:left;
+}
+.register{
+    text-align: left;
+    border: 1px solid black;
+    background-color: white;
+    width: 450;
+    padding-left: 10px;
+    margin: 0px 0px 0px 475px;
+    font-size: 18;
+}
+label{
+    color: black;
+    font-family: sans-serif ;
+}
+input{
+    width: 200px;
+    color: black;
+    height: 27px;
+    
+    
+}
+span{
+    color:black;
+    font-family: sans-serif;
+    
+}
+    
